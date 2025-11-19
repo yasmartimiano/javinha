@@ -1,0 +1,53 @@
+/.vscode
+
+/javinha/.github/java-upgrade
+
+
+# ---------------------------
+# Compilados e build
+# ---------------------------
+*.class
+*.jar
+*.war
+*.ear
+
+# ---------------------------
+# Pastas de build (IDE ou Java)
+# ---------------------------
+/out/
+/build/
+/target/
+
+# ---------------------------
+# Configurações da IDE
+# ---------------------------
+# IntelliJ IDEA
+/.idea/
+/*.iml
+
+# Eclipse
+/.classpath
+/.project
+/.settings/
+/bin/
+
+# VS Code
+/.vscode/
+
+# ---------------------------
+# Arquivos temporários e logs
+# ---------------------------
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# ---------------------------
+# GitHub Actions / workflows
+# ---------------------------
+.github/java-upgrade/
+
+# ---------------------------
+# Outros
+# ---------------------------
+*.class

@@ -1,4 +1,4 @@
-package introduction;
+package introduction.basics;
 
 public class HelloWorld {
 
